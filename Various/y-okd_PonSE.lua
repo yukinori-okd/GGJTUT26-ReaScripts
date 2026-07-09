@@ -16,5 +16,8 @@
 --   [main] PonSE/y-okd_PonSE12.lua
 --   [main] PonSE/y-okd_PonSEManager.lua
 -- @about
---   SEのポン出し用スクリプト群
---   マネージャーを起動した状態で使用する必要があります
+--   SEのポン出し用スクリプト群（マネージャーを起動した状態で使用する必要があります）
+--
+--   PonSEManager.luaはSEトラックの子トラックを取得して一覧として表示し、そのUIからSEを再生することも可能です。
+--
+--   PonSE<Num>.luaはPonSEManagerが起動している際に実行すると、指定番号のSEを鳴らすことができます。MIDI信号を割り当て、MIDIコントローラーで操作するため用です。
