@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GGJTUT26-ReaScripts" commit="7aa1d32a93adf575cba4d3d03d6c3fca65c812b2">
+<index version="1" name="GGJTUT26-ReaScripts" commit="264c87a987e5f1ea547f3fa2e73e700ed148b942">
   <category name="Various">
     <reapack name="y-okd_BGMController.lua" type="script" desc="BGM Controller">
       <metadata>
@@ -8,6 +8,14 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 "BGM"\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12398 ?\u23376 ?\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12392 ?\u12375 ?\u12390 ?\u35373 ?\u23450 ?\u12375 ?\u12383 ?\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12434 ?\u12289 ?\u12523 ?\u12540 ?\u12503 ?\u27005 ?\u26354 ?\u12392 ?\u12375 ?\u12390 ?\u38918 ?\u12293 ?\u12395 ?\u12501 ?\u12455 ?\u12540 ?\u12489 ?\u12375 ?\u12394 ?\u12364 ?\u12425 ?\u40180 ?\u12425 ?\u12375 ?\u12390 ?\u12356 ?\u12367 ?\u12383 ?\u12417 ?\u12398 ?\u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\u65288 ?LOOPSTART,LOOPLENGTH,LOOPEND\u12395 ?\u23550 ?\u24540 ?\u65289 ?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u20351 ?\u12356 ?\u26041 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab BGM\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12434 ?\u20316 ?\u25104 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab BGM\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12398 ?\u23376 ?\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12392 ?\u12375 ?\u12390 ?\u12289 ?\u27969 ?\u12375 ?\u12383 ?\u12356 ?BGM\u12434 ?\u19978 ?\u12363 ?\u12425 ?\u38918 ?\u12395 ?\u37197 ?\u32622 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab REAPER\u12398 ?\u12523 ?\u12540 ?\u12503 ?\u12434 ?\u12458 ?\u12531 ?\u12395 ?\u22793 ?\u26356 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab \u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\u12398 ?\u23455 ?\u34892 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab Init\u12508 ?\u12479 ?\u12531 ?\u12434 ?\u25276 ?\u19979 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab Play\u12508 ?\u12479 ?\u12531 ?\u12434 ?\u25276 ?\u19979 ?\u12375 ?\u12390 ?\u20877 ?\u29983 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 7.\tx360\tab \u27425 ?\u12398 ?\u38899 ?\u27005 ?\u12395 ?\u31227 ?\u34892 ?\u12377 ?\u12427 ?\u38555 ?\u12395 ?Next\u12508 ?\u12479 ?\u12531 ?\u12434 ?\u25276 ?\u19979 ?\sa180\par}
 }
 ]]></description>
       </metadata>
