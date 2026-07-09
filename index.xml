@@ -1,12 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="GGJTUT26-ReaScripts">
+<index version="1" name="GGJTUT26-ReaScripts" commit="2165022f449d0366688fcabef5e31da68e2d1ac1">
+  <category name="Various">
+    <reapack name="y-okd_BGMController.lua" type="script" desc="BGM Controller">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 "BGM"\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12398 ?\u23376 ?\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12392 ?\u12375 ?\u12390 ?\u35373 ?\u23450 ?\u12375 ?\u12383 ?\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12434 ?\u12289 ?\u12523 ?\u12540 ?\u12503 ?\u27005 ?\u26354 ?\u12392 ?\u12375 ?\u12390 ?\u38918 ?\u12293 ?\u12395 ?\u12501 ?\u12455 ?\u12540 ?\u12489 ?\u12375 ?\u12394 ?\u12364 ?\u12425 ?\u40180 ?\u12425 ?\u12375 ?\u12390 ?\u12356 ?\u12367 ?\u12383 ?\u12417 ?\u12398 ?\u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\u65288 ?LOOPSTART,LOOPLENGTH,LOOPEND\u12395 ?\u23550 ?\u24540 ?\u65289 ?\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="yukinori-okd" time="2026-07-09T11:47:34Z">
+        <source main="main">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/y-okd_BGMController.lua</source>
+      </version>
+    </reapack>
+    <reapack name="y-okd_PonSE.lua" type="script" desc="PonSE">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 SE\u12398 ?\u12509 ?\u12531 ?\u20986 ?\u12375 ?\u29992 ?\u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\u32676 ? \u12510 ?\u12493 ?\u12540 ?\u12472 ?\u12515 ?\u12540 ?\u12434 ?\u36215 ?\u21205 ?\u12375 ?\u12383 ?\u29366 ?\u24907 ?\u12391 ?\u20351 ?\u29992 ?\u12377 ?\u12427 ?\u24517 ?\u35201 ?\u12364 ?\u12354 ?\u12426 ?\u12414 ?\u12377 ?\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="yukinori-okd" time="2026-07-09T11:47:34Z">
+        <source main="main">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/y-okd_PonSE.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE1.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE1.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE2.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE2.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE3.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE3.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE4.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE4.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE5.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE5.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE6.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE6.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE7.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE7.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE8.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE8.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE9.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE9.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE10.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE10.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE11.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE11.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSE12.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSE12.lua</source>
+        <source main="main" file="PonSE/y-okd_PonSEManager.lua">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/PonSE/y-okd_PonSEManager.lua</source>
+      </version>
+    </reapack>
+    <reapack name="y-okd_TrackVolumeBGM.lua" type="script" desc="MIDI CC to BGM Track Volume">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 MIDI CC\u12513 ?\u12483 ?\u12475 ?\u12540 ?\u12472 ?\u12434 ?\u29992 ?\u12356 ?"BGM"\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12398 ?\u12508 ?\u12522 ?\u12517 ?\u12540 ?\u12512 ?\u12434 ?\u22793 ?\u26356 ?\u12377 ?\u12427 ?\u12383 ?\u12417 ?\u12398 ?\u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="yukinori-okd" time="2026-07-09T11:47:34Z">
+        <source main="main">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/y-okd_TrackVolumeBGM.lua</source>
+      </version>
+    </reapack>
+    <reapack name="y-okd_TrackVolumeSE.lua" type="script" desc="MIDI CC to SE Track Volume">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 MIDI CC\u12513 ?\u12483 ?\u12475 ?\u12540 ?\u12472 ?\u12434 ?\u29992 ?\u12356 ?"SE"\u12488 ?\u12521 ?\u12483 ?\u12463 ?\u12398 ?\u12508 ?\u12522 ?\u12517 ?\u12540 ?\u12512 ?\u12434 ?\u22793 ?\u26356 ?\u12377 ?\u12427 ?\u12383 ?\u12417 ?\u12398 ?\u12473 ?\u12463 ?\u12522 ?\u12503 ?\u12488 ?\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="yukinori-okd" time="2026-07-09T11:47:34Z">
+        <source main="main">https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/2165022f449d0366688fcabef5e31da68e2d1ac1/Various/y-okd_TrackVolumeSE.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 GGJTUT26-ReaScripts\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 GGJTUT26\u12391 ?\u29992 ?\u12356 ?\u12427 ?\u12383 ?\u12417 ?\u12395 ?\u20316 ?\u25104 ?\u12375 ?\u12383 ?ReaScript\u12391 ?\u12377 ?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 GGJTUT26\u12391 ?\u29992 ?\u12356 ?\u12427 ?\u12383 ?\u12417 ?\u12395 ?\u20316 ?\u25104 ?\u12375 ?\u12383 ?ReaScript\u12391 ?\u12377 ?\u12290 ?\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 ReaPack\u30331 ?\u37682 ?\u29992 ?URL\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/main/index.xml\par}
 }
