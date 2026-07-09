@@ -1,0 +1,20 @@
+-- @description PonSE
+-- @version 1.0
+-- @author yukinori-okd
+-- @provides
+--   [main] PonSE/y-okd_PonSE1.lua
+--   [main] PonSE/y-okd_PonSE2.lua
+--   [main] PonSE/y-okd_PonSE3.lua
+--   [main] PonSE/y-okd_PonSE4.lua
+--   [main] PonSE/y-okd_PonSE5.lua
+--   [main] PonSE/y-okd_PonSE6.lua
+--   [main] PonSE/y-okd_PonSE7.lua
+--   [main] PonSE/y-okd_PonSE8.lua
+--   [main] PonSE/y-okd_PonSE9.lua
+--   [main] PonSE/y-okd_PonSE10.lua
+--   [main] PonSE/y-okd_PonSE11.lua
+--   [main] PonSE/y-okd_PonSE12.lua
+--   [main] PonSE/y-okd_PonSEManager.lua
+-- @about
+--   SEのポン出し用スクリプト群
+--   マネージャーを起動した状態で使用する必要があります
