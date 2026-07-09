@@ -1,3 +1,5 @@
+-- @noindex
+
 local EXT_SECTION = "SE_RUNNER_SCRIPT_SYSTEM"
 local EXT_KEY = "SE_MESSAGE_QUEUE"
 local id_index = 9

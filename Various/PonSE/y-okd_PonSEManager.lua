@@ -1,3 +1,5 @@
+-- @noindex
+
 package.path = reaper.ImGui_GetBuiltinPath() .. '/?.lua'
 local ImGui = require 'imgui' '0.10'
 local app_name = "Pon SE Manager"
