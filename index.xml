@@ -88,6 +88,10 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 GGJTUT26-ReaScripts\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 GGJTUT26\u12391 ?\u29992 ?\u12356 ?\u12427 ?\u12383 ?\u12417 ?\u12395 ?\u20316 ?\u25104 ?\u12375 ?\u12383 ?ReaScript\u12391 ?\u12377 ?\u12290 ?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u24517 ?\u35201 ?\u29872 ?\u22659 ?\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab REAPER\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaPack\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaImGui 0.9+\sa180\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 ReaPack\u30331 ?\u37682 ?\u29992 ?URL\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/yukinori-okd/GGJTUT26-ReaScripts/raw/main/index.xml\par}
 }
